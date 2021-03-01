@@ -1,0 +1,12 @@
+---
+title: "Bootstrapped CI's for Proportions Using UCSB Campus Climate Final Report"
+author: "Julianna Renzi"
+date: "3/1/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Source:** 2014 UCSB Campus Climate Project Final Report (prepared by Rankin & Associates Consulting, available at http://campusclimate.ucop.edu/_common/files/pdf-climate/ucsb-full-report.pdf )

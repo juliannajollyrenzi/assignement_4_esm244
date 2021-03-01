@@ -1,0 +1,12 @@
+---
+title: "Paramter Estimation - Wild Fish Catch"
+author: "Julianna Renzi"
+date: "3/1/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Source:** Global wild fish catch and aquaculture production, compiled by Earth Policy Institute with 1950-2010 from U.N. Food and Agriculture Organization (FAO), *Global Capture Production* and *Global Aquaculture Production*, electronic databases, at www.fao.org/fishery/topic/16140/en.
